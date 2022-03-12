@@ -1,0 +1,40 @@
+h4 {
+    color: grey;
+}
+
+h5 {
+    color: grey;
+}
+
+.filter {
+    background-color: rgba(128, 128, 128, 0.205);
+}
+
+.location {
+    background-color: rgba(128, 128, 128, 0.205);
+}
+
+figcaption {
+    margin-top: 10%;
+    padding-left: 5%;
+}
+
+footer {
+    background-color: black;
+}
+
+.icone {
+    fill: white;
+}
+
+.back {
+    fill: white;
+    border-style: solid;
+    border-color: white;
+    border-radius: 800px;
+    background-color: black;
+}
+
+.filtre {
+    fill: white;
+}

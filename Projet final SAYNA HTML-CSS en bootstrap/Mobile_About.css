@@ -1,0 +1,70 @@
+body {
+    background-color: azure;
+    border-color: aquamarine;
+    box-shadow: 5px;
+}
+
+.Rouage {
+    margin-top: 10%;
+    background-color: white;
+    box-shadow: 2px;
+    font-size: 200%;
+    text-align: center;
+    fill: brown;
+}
+
+.icone {
+    font-size: 150%;
+}
+
+.bouton1 {
+    text-align: right;
+}
+
+.details {
+    padding-left: 70px;
+}
+
+.map {
+    font-size: 150%;
+}
+
+footer {
+    background-color: black;
+}
+
+h6 {
+    color: white;
+    text-align: right;
+}
+
+.local {
+    padding-top: 20px;
+    border: 1px solid black;
+}
+
+.local input {
+    padding-top: 20px;
+    border: none;
+    color: aqua;
+}
+
+.back {
+    fill: white;
+    border-style: solid;
+    border-color: white;
+    border-radius: 800px;
+    background-color: black;
+}
+
+.icone {
+    fill: white;
+}
+
+.blue {
+    fill: blue;
+}
+
+.map {
+    fill: brown;
+}
